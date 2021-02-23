@@ -1,0 +1,19 @@
+{
+  "name": "feature-file-splitter",
+  "version": "1.0.0",
+  "description": "To split large feature files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PulsatingStar/feature-file-splitter.git"
+  },
+  "author": "kalsi, vishal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PulsatingStar/feature-file-splitter/issues"
+  },
+  "homepage": "https://github.com/PulsatingStar/feature-file-splitter#readme"
+}
